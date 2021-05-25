@@ -1,2 +1,4 @@
 # Customer-Segmentation
-Divide the customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
+Segmentising of customer based on their purchasing behavior to prioritize marketing by customer groups and send relevant promotions to existing customers to expand the business.
+
+
